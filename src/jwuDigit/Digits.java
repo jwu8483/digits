@@ -27,4 +27,8 @@ public class Digits{
         }
         return true;
     }
+    public ArrayList<Integer> getDigitList()
+    {
+        return digitList;
+    }
 }
